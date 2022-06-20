@@ -12,3 +12,9 @@
 - Python  
 - Vim
 - VSCode
+## 🖥Enviroment
+```
+OS : Win10 Pro / Arch Linux
+DE : Gnome 42
+Editor : Vim VSCode
+```
