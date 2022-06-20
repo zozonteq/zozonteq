@@ -13,8 +13,13 @@
 - Vim
 - VSCode
 ## 🖥Enviroment
+Omen_30L(main)
 ```
 OS : Win10 Pro / Arch Linux
 DE : Gnome 42
-Editor : Vim VSCode
+```
+Dell_G7_15
+```
+OS : Win10 Pro / Ubuntu 20.04
+DE : Openbox
 ```
