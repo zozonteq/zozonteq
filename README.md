@@ -12,18 +12,27 @@
 - Python  
 - Vim
 - VSCode
+- Gnome
+- Openbox
 ## 🖥Enviroment
 Omen_30L(main)(desktop)
 ```
 OS : Win10 Pro / Arch Linux
 DE : Gnome 42
+CPU: i9-10850K
+GPU: RTX_3090
+RAM:64GB
 ```
 Dell_G7_15_7588(laptop)
 ```
 OS : Win10 Pro / Ubuntu 20.04
 DE : Openbox
+CPU: i7-8750H
+GPU: GTX1060_max_q
+RAM:16GB
 ```
 # Langages
+- Japanese
 - C#
 - C++
 - C
