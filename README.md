@@ -23,3 +23,10 @@ Dell_G7_15_7588(laptop)
 OS : Win10 Pro / Ubuntu 20.04
 DE : Openbox
 ```
+# Langages
+- C#
+- C++
+- C
+- Python
+- Java
+- JavaScript
