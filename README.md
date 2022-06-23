@@ -39,3 +39,6 @@ RAM: 16GB
 - Python
 - Java
 - JavaScript
+
+# Contact
+email : ottotak@outlook.com
