@@ -14,7 +14,9 @@
 - VSCode
 - Gnome
 - Openbox
-## 🖥Enviroment
+## Enviroment
+[dotfile](https://github.com/ottotak/dotfile)
+## 🖥PC
 Omen_30L(main)(desktop)
 ```
 OS : Win10 Pro / Arch Linux
