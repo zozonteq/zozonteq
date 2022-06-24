@@ -40,5 +40,8 @@ RAM: 16GB
 - Java
 - JavaScript
 
+# Learning
+- Golang
+- Lua
 # Contact
 email : ottotak@outlook.com
