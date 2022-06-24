@@ -8,12 +8,7 @@
 </p>
 
 ## 🌟Favorite
-- C#   
-- Python  
-- Vim
-- VSCode
-- Gnome
-- Openbox
+C# Python Gnome Vim Openbox Rockbox C++ Linux
 ## Enviroment
 [dotfile](https://github.com/ottotak/dotfile)
 ## 🖥PC
