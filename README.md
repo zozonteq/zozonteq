@@ -35,13 +35,7 @@ CPU: i7-2820QM
 RAM: 8GB
 ```
 # Langages
-- Japanese
-- C#
-- C++
-- C
-- Python
-- Java
-- JavaScript
+C# C++ C Python Java JavaScript
 
 # Learning
 - Golang
