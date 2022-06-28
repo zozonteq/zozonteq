@@ -25,13 +25,14 @@ Dell_G7_15_7588(laptop)
 OS : Win10 Pro / Ubuntu 20.04
 DE : Gnome 3.36
 CPU: i7-8750H
-GPU: GTX1060_max_q
+GPU: GTX1060-max_q
 RAM: 16GB
 ```
 Macbook_pro_2011
 ```
 OS : macOS Catalina / macOS Mojave
 CPU: i7-2820QM
+GPU: AMD-Radeon-HD-6750M
 RAM: 8GB
 ```
 # Langages
