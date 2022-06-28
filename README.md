@@ -36,9 +36,11 @@ RAM: 8GB
 ```
 # Langages
 C# C++ C Python Java JavaScript
-
+# Frameworks
+Unity Flutter 
 # Learning
 - Golang
 - Lua
+- SwiftUI
 # Contact
 email : ottotak@outlook.com
