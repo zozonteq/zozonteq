@@ -38,7 +38,7 @@ RAM: 8GB
 # Langages
 C# C++ C Python Java JavaScript
 # Frameworks
-Unity Flutter 
+Unity Flutter .NET p5.js SwiftUI 
 # Learning
 - Golang
 - Lua
