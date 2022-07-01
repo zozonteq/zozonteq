@@ -1,10 +1,10 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ottotak&style=flat-square" alt="ottotak" />
+  <img src="https://komarev.com/ghpvc/?username=ototak&style=flat-square" alt="ototak" />
   </p>
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottotak&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ottotak&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ototak&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ototak&theme=onedark&show_icons=ture" />
 </p>
 
 ## 🌟Favorite
