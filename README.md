@@ -11,13 +11,5 @@
 C# Python Gnome Vim Openbox Rockbox C++ Linux
 ## Enviroment
 [dotfile](https://github.com/zozonteq/dotfile)
-# Langages
-C# C++ C Python Java JavaScript
-# Frameworks
-Unity Flutter .NET p5.js SwiftUI 
-# Learning
-- Golang
-- Lua
-- SwiftUI
 # Contact
 email : ottotak@outlook.com
