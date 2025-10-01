@@ -6,5 +6,5 @@
 # Archieves
 - Secutity Camp 2025
 # Repo
-- A OSINT tool that discover X tweets from deleted account: https://github.com/zozonteq/backxive
-- My develop enviroment: https://github.com/zozonteq/nix-config
+- 🔎 An OSINT tool to discover deleted account tweets: https://github.com/zozonteq/backxive
+- 💻 My develop enviroment: https://github.com/zozonteq/nix-config
