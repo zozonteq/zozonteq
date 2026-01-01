@@ -3,7 +3,7 @@
 # skills
 - **Languages:** C#, Java, JavaScript, TypeScript, Python, Nix, SQL, C++, Clang, NuShell, Dart
 - **Framework/Tools:** React, Hono, Unity, UE5, Next, Arduino, Linux, Flutter
-- **Like:** Bluetooth-LE, NeoVim, NixOS, pwndbg
+- **Like:** Bluetooth-LE, NeoVim, NixOS, Proxmox-VE
 # Archieves
 - Secutity Camp 2025
 # Repo
