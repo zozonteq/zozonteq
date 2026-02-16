@@ -1,5 +1,5 @@
 # about me
-- 2nd-year student at `Hokkaido University of Science`.
+- 2nd-year student.
 # skills
 - **Languages:** C#, Java, JavaScript, TypeScript, Python, Nix, SQL, C++, Clang, NuShell, Dart
 - **Framework/Tools:** React, Hono, Unity, UE5, Next, Arduino, Linux, Flutter
