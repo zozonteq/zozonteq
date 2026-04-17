@@ -9,3 +9,4 @@
 # Repo
 - 🔎 An OSINT tool to discover deleted account tweets: https://github.com/zozonteq/backxive
 - 💻 My develop enviroment: https://github.com/zozonteq/nix-config
+- 🐥 Run UEFI Application on Embedded Swift runtime:[ https://github.com/zozonteq/swift-uefi-sample](https://github.com/zozonteq/swift-uefi-sample)
